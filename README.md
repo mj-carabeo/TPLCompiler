@@ -1,4 +1,4 @@
 # Members
-Rubinos, Aaron Gil 
-Edroso, Harbey
-Carabeo, Meldrick
+Rubinos, Aaron Gil  
+Edroso, Harbey  
+Carabeo, Meldrick  
